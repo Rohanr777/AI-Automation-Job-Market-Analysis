@@ -52,7 +52,8 @@ README.md
 
 ## Dashboard Preview
 
-(Add your dashboard screenshot here after uploading it to the repository.)
+<img width="1284" height="848" alt="image" src="https://github.com/user-attachments/assets/20096ede-3784-4588-b578-88d5b7c487b9" />
+
 
 ## Conclusion
 
